@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express-handlebars": "^6.0.2",
+    "mongoose": "^6.1.2",
+    "mongoose-delete": "^0.5.4",
+    "node-sass": "^7.0.0"
+  }
+}
